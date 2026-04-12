@@ -12,6 +12,9 @@ Education impact on earnings
 Occupational structure
 Demographic patterns
 🖼 Dashboard Preview
+![image](POWER BI DASHBOARD.png)
+
+---
 
 📈 Key Performance Indicators (KPIs)
 KPI	Value	Description
