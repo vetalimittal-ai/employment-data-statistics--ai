@@ -17,7 +17,7 @@ It helps stakeholders understand:
 
 ## 🖼 Dashboard Preview
 
-![Employment Dashboard](dashboard%20image.jpg)
+![Power BI Dashboard](Images/POWER%20BI%20DASHBOARD.png)
 
 ---
 
